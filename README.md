@@ -8,8 +8,6 @@
 
 - [點陣圖素材庫 DOTOWN ](https://dotown.maeda-design-room.net/)
 - [日本插畫屋](https://www.irasutoya.com/)
-- 
-
 
 ### MIT
 
@@ -21,3 +19,11 @@
 
 - [Material UI](https://mui.com/zh/)
 - [Ant Design](https://ant.design/)
+
+## API
+
+### 隨機生成API
+
+- [Random User API](https://randomuser.me/)
+- [Random Data API](https://random-data-api.com/)
+- [Random Image API](https://picsum.photos/)
