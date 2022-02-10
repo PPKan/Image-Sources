@@ -22,9 +22,9 @@
 
 ## API
 
-### 隨機生成API
+### 測試用API
 
 - [Random User API](https://randomuser.me/)
 - [Random Data API](https://random-data-api.com/)
 - [Random Image API](https://picsum.photos/)
-- [Random JSON API](https://jsonplaceholder.typicode.com/)
+- [Placeholder JSON API](https://jsonplaceholder.typicode.com/)
