@@ -27,3 +27,4 @@
 - [Random User API](https://randomuser.me/)
 - [Random Data API](https://random-data-api.com/)
 - [Random Image API](https://picsum.photos/)
+- [Random JSON API](https://jsonplaceholder.typicode.com/)
