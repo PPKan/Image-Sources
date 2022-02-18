@@ -28,3 +28,11 @@
 - [Random Data API](https://random-data-api.com/)
 - [Random Image API](https://picsum.photos/)
 - [Placeholder JSON API](https://jsonplaceholder.typicode.com/)
+
+## Font
+
+- Noto Seirf TC 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap');
+
+- Noto Sans TC
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
